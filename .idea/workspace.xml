@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb6b2a9f-e04d-41d8-9a42-cc753febbb0f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Models/Aquarium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Aquarium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Models/Common/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Common/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Models/Common/MeatEaterFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Common/MeatEaterFish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Models/Common/WeedEaterFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Common/WeedEaterFish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Models/Handlers/CustomRNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Handlers/CustomRNG.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +36,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -66,6 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670573774986</updated>
+      <workItem from="1673093300843" duration="3368000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <created>1670658745553</created>
@@ -76,6 +74,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init commit" />
